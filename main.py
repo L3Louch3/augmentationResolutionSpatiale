@@ -5,6 +5,7 @@ import numpy as np
 import rasterio as rio
 
 
+print("Test")
 
 warnings.simplefilter('ignore')
 
